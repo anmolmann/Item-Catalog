@@ -17,7 +17,7 @@
 	</div>
 
 	<div class="col-md-2">
-		<a href = '{{url_for('showRestaurants')}}'>
+		<a href = "{{url_for('showMenu', restaurant_id = item.restaurant_id)}}">
 			<button class="btn btn-default delete">
 				<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
 				Cancel

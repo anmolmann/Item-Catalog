@@ -20,7 +20,7 @@ The Item Catalog project consists of developing an application that provides a l
 	- After logging in, a user has the ability to add, update, or delete item info.
 	- The application provides a JSON endpoint, at the very least.
 
-![blog demo](https://github.com/anmolmann/Item-Catalog/blob/master/images/menu.png)
+![blog demo](https://github.com/anmolmann/Item-Catalog/blob/master/images/restaurants.png)
 
 
 ## Documentation
