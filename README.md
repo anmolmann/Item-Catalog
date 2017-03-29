@@ -75,5 +75,5 @@ VirtualBox is the software that actually runs the VM. [You can download it from 
 
 - Type **python project.py** to run the Flask web server.
 
-- Access and test your application by visiting http://localhost:8000 locally
+- Access and test your application by visiting http://localhost:5000 locally
 	- In your browser visit **http://localhost:5000** to view the restaurant menu app.  You should be able to view, add, edit, and delete menu items and restaurants.
